@@ -1,0 +1,5 @@
+{
+  "name": "AI Director of Photography",
+  "description": "An AI-powered creative assistant for video production. Input a script, and the AI generates a detailed shot list and multi-modal storyboards, including still images and sound suggestions for each shot.",
+  "requestFramePermissions": []
+}
